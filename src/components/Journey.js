@@ -45,7 +45,7 @@ const SignUpToBeAmongTheFirst = ({ type, time, place }) => {
         </span>
         <div className="font-medium w-full md:text-sm">
 
-          Sign up to be among the first to know when we launch!
+        Be the first to transform your client relationships – sign up for exclusive updates!
           <div className="flex w-full items-start justify-between md:flex-col">
             <div className="mt-2 flex items-center self-start lg:self-center">
               <input type="text" placeholder="Email" className={`flex items-center rounded-lg border-2 border-solid  p-2.5 px-6 text-lg font-semibold

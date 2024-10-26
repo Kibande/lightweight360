@@ -16,7 +16,7 @@ export default function Home() {
         <title>LightWeight360</title>
         <meta
           name="description"
-          content="Empowering personal trainers and nutritionists with an innovative CRM platform that simplifies client management, enhances scalability, and fosters lasting relationships, allowing professionals to focus on transforming lives while we handle the details."
+          content="Empowering fitness professionals with a streamlined CRM to build stronger client connections, boost productivity, and scale your business with ease."
         />
       </Head>
 
@@ -39,16 +39,16 @@ export default function Home() {
             <br/>
             <br/>
               <AnimatedText
-                text1="Transforming" text2="client care" text3="one rep at a time."
+                text1="Effortless" text2="client management" text3="for every workout and wellness journey"
                 className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
-                Empowering personal trainers and nutritionists with an innovative CRM platform that simplifies client management, enhances scalability, and fosters lasting relationships, allowing professionals to focus on transforming lives while we handle the details.
+              Empowering fitness professionals with a streamlined CRM to build stronger client connections, boost productivity, and scale your business with ease.
 
 
                 <br /><br />
 
-                Sign up to be among the first to know when we launch!
+                Be the first to transform your client relationships – sign up for exclusive updates!
 
               </p>
 
