@@ -105,7 +105,7 @@ const Journey = () => {
             type="Builing MVP"
             time="2024-October"
             place="Canada - Toronto"
-            info="We started working on our new personal trainer CRM platform, design tp help tarinersstreamlin client management, track progress, and 
+            info="We started working on our new personal trainer CRM platform, designed to help tariners stream line client management, track progress, and 
             implify scheduling, all in one easy-to-use application."
           />
 
