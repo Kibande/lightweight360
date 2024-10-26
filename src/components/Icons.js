@@ -38,6 +38,7 @@ export const FullBlackLogo = ({ className, ...rest }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     id="Layer_2"
+    style={{ transform: 'scale(1.3)' }}
     data-name="Layer 2"
     viewBox="0 0 1047.31 559.22"
     {...rest}
@@ -108,6 +109,7 @@ export const FullLogoIcon = ({ className, ...rest }) => (
     xmlns="http://www.w3.org/2000/svg"
     id="Layer_2"
     data-name="Layer 2"
+    style={{ transform: 'scale(1.3)' }}
     viewBox="0 0 1047.31 559.22"
     {...rest}
     className={`w-full h-auto ${className}`}

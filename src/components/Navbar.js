@@ -219,7 +219,7 @@ const Navbar = () => {
       <div
      className='flex flex-col items-center justify-center mt-2'>
         <MotionLink href="/" 
-    className='flex items-center justify-center  w-21 h-21'
+    className='flex items-center justify-center  w-20 h-20'
 
     >
      {mode === "light" ? <FullBlackLogo/>:<FullLogoIcon/>}
