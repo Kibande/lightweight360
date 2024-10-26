@@ -28,7 +28,7 @@ const singleWord = {
   },
 };
 
-const AnimatedText = ({ text1,text2,text3, className = "" }) => {
+const AnimatedText = ({ text1="",text2="",text3="", className = "" }) => {
   return (
     <div className="py-2 w-full mx-auto flex flex-col items-center justify-center  text-center  
     overflow-hidden sm:py-0" >
