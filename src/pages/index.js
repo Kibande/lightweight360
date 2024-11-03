@@ -69,7 +69,7 @@ export default function Home() {
         </Layout>
 
         <Floater />
-        <div
+        {/* <div
         className="absolute right-8 bottom-8 inline-block w-28 md:hidden"
         >
           <Image
@@ -78,7 +78,7 @@ export default function Home() {
             alt="lightWeight360"
           />
 
-        </div>
+        </div> */}
       </article>
     </>
   );
