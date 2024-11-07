@@ -68,7 +68,7 @@ export default function Home() {
           </div>
         </Layout>
 
-        <Floater />
+        {/* <Floater /> */}
         {/* <div
         className="absolute right-8 bottom-8 inline-block w-28 md:hidden"
         >
