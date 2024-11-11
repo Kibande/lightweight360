@@ -45,7 +45,7 @@ const SignUpToBeAmongTheFirst = ({ type, time, place }) => {
         </span>
         <div className="font-medium w-full md:text-sm">
 
-        Be the first to transform your client relationships – sign up for exclusive updates!
+        Be the first to transform your client relationship—sign up now for exclusive updates!
           <div className="flex w-full items-start justify-between md:flex-col">
             <div className="mt-2 flex items-center self-start lg:self-center">
               <input type="text" placeholder="Email" className={`flex items-center rounded-lg border-2 border-solid  p-2.5 px-6 text-lg font-semibold
@@ -85,32 +85,31 @@ const Journey = () => {
         <ul className="w-full flex flex-col items-start justify-between ml-4">
           <Details
             type="Problem Identification"
-            time="2024-September"
-            place="Canada - Toronto"
-            info="Decentralized approach to organizing client data: progress, meal plan, diet plan. Using Excel spreadsheets limits scalability and effectively manages existing relationships for existing Personal Trainers."
+            time="September 2024"
+            place="Toronto, Canada"
+            info="Personal trainers often face significant challenges when managing client relationships. Currently, the industry primarily relies on Excel spreadsheets and the existing tools are not a holistic solution. None of the solutions were solving for a recurring problem."
           />
           <Details
             type="Market Research"
-            time="2024-October"
-            place="Canada - Toronto"
-            info="We talked to personal trainers, conducted surveys and looked at existing CRM tools for personal trainers. Identified gaps in the current tools."
+            time="October 2024 "
+            place="Toronto, Canada"
+            info="Our team conducted rigorous primary research. Through conversations with personal trainers, trainees, surveys, and an in-depth analysis of existing tools we uncovered a prime business opportunity."
           />
           <Details
             type="Solution"
-            time="2024-October"
-            place="Canada - Toronto"
-            info="Build a CRM tool for personal trainers and nutritionists that provide a holistic solution from a-z of their engagement with their client. With a particular focus on providing a value added feature to help scalability."
+            time="October 2024"
+            place="Toronto, Canada"
+            info="We are building a CRM tool for personal trainers, fitness coaches and wellness professionals that will be a 360 solution for their entire operation. Our tool will have a particular focus on scalability and limiting turnover."
           />
           <Details
-            type="Builing MVP"
-            time="2024-October"
-            place="Canada - Toronto"
-            info="We started working on our new personal trainer CRM platform, designed to help tariners stream line client management, track progress, and 
-            implify scheduling, all in one easy-to-use application."
+            type="Building the MVP"
+            time="October 2024"
+            place="Toronto, Canada"
+            info="Development of our CRM platform has begun!"
           />
 
 
-          <SignUpToBeAmongTheFirst type="Sign Up!"
+          <SignUpToBeAmongTheFirst type="Sign Up for Early Access!"
             time="Coming Soon"
             place="Online" />
         </ul>
